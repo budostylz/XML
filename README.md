@@ -1,7 +1,7 @@
 # XML
 
 
-##schema.org
+## schema.org
 
 http://schema.org
 
